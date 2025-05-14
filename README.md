@@ -48,6 +48,8 @@ The program will prompt you for:
 
 ## Roadmap
 
+- Adding password strength checker and showing the strength upon generation.
+
 - Make it General to create random string for security application like (https://djecrety.ir/)
 - Support popular framework requirement of secreat string like Django SECRET_KEY (minimum 50 suggested)
 - Support other cryptographic requirement like :
