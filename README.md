@@ -19,12 +19,14 @@ A secure password generator written in Rust that allows users to create random p
 ## Installation
 
 1. Clone the repository:
+
 ```bash
-git clone https://github.com/YOUR_USERNAME/password-generator.git
-cd password-generator
+git clone https://github.com/YOUR_USERNAME/rustyLock.git
+cd rustyLock
 ```
 
 2. Build the project:
+
 ```bash
 cargo build --release
 ```
@@ -32,11 +34,13 @@ cargo build --release
 ## Usage
 
 Run the program:
+
 ```bash
 cargo run
 ```
 
 The program will prompt you for:
+
 - Password length (defaults to 12 if no input is provided)
 - Whether to include uppercase letters (default: yes)
 - Whether to include numbers (default: yes)
@@ -44,4 +48,4 @@ The program will prompt you for:
 
 ## License
 
-MIT License 
+MIT License
